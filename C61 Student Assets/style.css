@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+.line {
+    height: 10px;
+    background-color: aquamarine;
+    width: 100px;
+    margin: 8px auto;
+}
+
+#app {
+    background-color: rgb(211, 255, 182);
+}
+
+#game {
+    background-color: coral;
+}
+
+img {
+    width: 20%;
+}
